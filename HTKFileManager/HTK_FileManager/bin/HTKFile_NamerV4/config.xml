@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigHelper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <siglasDePuestos>
+    <string>CEO.ACEO</string>
+    <string>GCIES.AIES</string>
+    <string>GM.CET</string>
+    <string>GM.CEMM</string>
+    <string>CEO.DOP</string>
+    <string>CEO.DTI</string>
+    <string>CEO.DVM</string>
+    <string>CEO</string>
+    <string>GAU.EAU</string>
+    <string>GA.ECA</string>
+    <string>GF.EC</string>
+    <string>GF.ECC</string>
+    <string>GL.EL</string>
+    <string>GA.ERH</string>
+    <string>GES.EESA</string>
+    <string>GES.EES</string>
+    <string>GES.EES</string>
+    <string>GES.EES</string>
+    <string>DOP.GA</string>
+    <string>GAU</string>
+    <string>DVM.GCIES</string>
+    <string>DOP.GF</string>
+    <string>DTI.GIM</string>
+    <string>DTI.GIN</string>
+    <string>DOP.GL</string>
+    <string>DVM.GM</string>
+    <string>DTI.GTI</string>
+    <string>DVM.GES</string>
+    <string>GIM.LIE</string>
+    <string>GIM.LIE</string>
+    <string>GIN.LI</string>
+    <string>GIN.LSD</string>
+    <string>GIM.LST</string>
+    <string>GTI.LTI</string>
+  </siglasDePuestos>
+  <index>23</index>
+  <Puesto>DTI.GIN</Puesto>
+  <Area>DEV</Area>
+</ConfigHelper>

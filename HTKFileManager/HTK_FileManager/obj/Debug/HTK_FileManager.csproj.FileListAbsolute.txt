@@ -1,0 +1,11 @@
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\bin\Debug\HTK_FileManager.exe.config
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\bin\Debug\HTK_FileManager.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\bin\Debug\HTK_FileManager.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\obj\Debug\HTK_FileManager.csprojResolveAssemblyReference.cache
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\obj\Debug\HTK_FileManager.frmFileManager.resources
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\obj\Debug\HTK_FileManager.Properties.Resources.resources
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\obj\Debug\HTK_FileManager.csproj.GenerateResource.Cache
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\obj\Debug\HTK_FileManager.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\obj\Debug\HTK_FileManager.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\obj\Debug\HTK_FileManager.Configuracion.resources
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK_FileManager\HTK_FileManager\obj\Debug\HTK_FileManager.File Namer.resources
